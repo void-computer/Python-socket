@@ -1,4 +1,4 @@
 # Python-socket
-tcp cht room with python
+tcp chat room with python
 
 
